@@ -1,0 +1,6 @@
+.git
+.env
+.compose.env
+install.lock
+storage/
+*.zip
